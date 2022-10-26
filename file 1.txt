@@ -7,3 +7,6 @@ feature branch
 
 new changes in feature branch
 needs to be merged develop
+
+// new code 
+// bugfix
