@@ -1,0 +1,3 @@
+credential data
+
+token: xyz
